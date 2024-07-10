@@ -1,0 +1,10 @@
+kopilot:
+  username: "username"
+  password: "password"
+
+code:
+  number: 2
+  result: 25
+
+minecraft:
+  uuid: "uuid"

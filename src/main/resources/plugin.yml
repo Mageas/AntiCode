@@ -1,0 +1,4 @@
+name: AntiCode
+version: '${project.version}'
+main: fr.mageas.anticode.AntiCode
+api-version: '1.21'
